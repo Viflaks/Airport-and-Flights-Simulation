@@ -1,0 +1,2 @@
+A simple simulation of airports represented as squares and flights represented as circles, after loading from either JSON or CSV file, if loading airports can be enabled on map so you can see them, they can also be clicked to be selected,
+there are buttons to run simulations, there are 2 examples of inputs in the 2 files in this project.
